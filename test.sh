@@ -1,0 +1,1 @@
+mosquitto_pub -h prata.technocreatives.com -t thehub/rundorisrun/score/gethighscores -m '[{"Score_ID": "PLAYER_1", "Score": 2005, "Player_ID": "98654987", "Level_ID": 1}, {"Score_ID": "BestPlayer111", "Score": 588, "Player_ID": "54546876", "Level_ID": 1}, {"Score_ID": "topMAN!!122", "Score": 300, "Player_ID": "846446876", "Level_ID": 1}]'
